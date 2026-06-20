@@ -2,3 +2,4 @@ title: App Support Docs
 description: Support and policy pages for xikodev apps
 markdown: kramdown
 permalink: pretty
+theme: minima
