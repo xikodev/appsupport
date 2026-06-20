@@ -9,7 +9,7 @@ Last updated: June 20, 2026
 
 ## Contact
 
-- Support email: `support@xikodev.xyz`
+- Support email: `xikodevapps@gmail.com`
 - Privacy policy: `https://appsupport.xikodev.xyz/pixel-library/privacy-policy/`
 - Account deletion page: `https://appsupport.xikodev.xyz/pixel-library/account-deletion/`
 

@@ -57,7 +57,7 @@ Pixel Library provides study session tracking, private study groups, and account
 
 ## Contact
 
-- Support email: `support@xikodev.xyz`
+- Support email: `xikodevapps@gmail.com`
 - Support page: `https://appsupport.xikodev.xyz/pixel-library/support/`
 - Account deletion page: `https://appsupport.xikodev.xyz/pixel-library/account-deletion/`
 

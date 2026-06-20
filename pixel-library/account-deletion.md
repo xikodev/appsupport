@@ -20,7 +20,7 @@ Pixel Library supports account deletion both inside the app and through a web-ac
 
 If you cannot access the app, request deletion through:
 
-- `support@xikodev.xyz`
+- `xikodevapps@gmail.com`
 
 ## What Happens When A Request Is Completed
 
